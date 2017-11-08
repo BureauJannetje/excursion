@@ -1,0 +1,22 @@
+* {
+  font-family: Courier;
+}
+
+
+h1 {
+  color: Orange;
+  background-color: black;
+  opacity: 0.5;
+  text-align: center;
+}
+
+
+p,
+li {
+  font-size: 18px;
+}
+
+
+a {
+  text-decoration: overline;
+}
