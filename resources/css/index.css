@@ -1,22 +1,31 @@
 * {
-  font-family: Courier;
+  background-color: black;
+  text-align: center;
+  font-family: Verdana,sans-serif;
+  color: white
 }
-
 
 h1 {
-  color: Orange;
-  background-color: black;
-  opacity: 0.5;
-  text-align: center;
+  font-size: 50px;
 }
 
 
-p,
-li {
-  font-size: 18px;
+h2 {
+  font-weight: 300;
+  font-size: 42 px;
 }
 
+
+p {
+  font-size: 21px;
+  color: gray;
+}
 
 a {
-  text-decoration: overline;
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.endnote {
+  text-align: right;
 }
